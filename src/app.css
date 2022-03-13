@@ -1,0 +1,8 @@
+i{
+  color:red;
+}
+
+label#firstNameHelp,label#lastNameHelp,label#PhoneHelp{
+    font-size: 13px;
+    color: red;
+}
